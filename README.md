@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Profile Contribution Graph"/>
-</p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yuvraj-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -49,8 +44,3 @@
 </p>
 
 ---
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-ai&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
-</p>
